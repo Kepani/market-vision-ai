@@ -1,5 +1,3 @@
-# Market Vision AI
-
 Market Vision AI is an **advisory trading assistant** designed to analyze market conditions in real time and provide **contextual feedback** on trade entries.
 
 This system **does not place trades**.  
